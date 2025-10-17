@@ -28,28 +28,6 @@ Componente	Tecnología	Descripción
 	Panel web para visualizar y probar el chatbot.
 🐳 Contenedores	Docker
 	Aislamiento y despliegue consistente del proyecto.
-	
-🧱 Estructura del proyecto
-chatbot-llama-fastapi/
-
-├─ README.md
-├─ requirements.txt
-├─ docker-compose.yml
-├─ Dockerfile.api
-├─ Dockerfile.ui
-├─ .env
-├─ models/
-│   └─ your-model.bin
-├─ src/
-│  ├─ app/
-│  │  ├─ main.py
-│  │  └─ llm_client.py
-│  ├─ utils/
-│  │  ├─ embeddings.py
-│  └─ vector_db/
-│     └─ chroma_client.py
-└─ frontend/
-   └─ streamlit_app.py
 
 ⚙️ Variables de entorno (.env)
 
