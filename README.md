@@ -28,8 +28,10 @@ Componente	Tecnología	Descripción
 	Panel web para visualizar y probar el chatbot.
 🐳 Contenedores	Docker
 	Aislamiento y despliegue consistente del proyecto.
+	
 🧱 Estructura del proyecto
 chatbot-llama-fastapi/
+
 ├─ README.md
 ├─ requirements.txt
 ├─ docker-compose.yml
